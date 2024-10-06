@@ -1,0 +1,13 @@
+
+
+You have to design a dictionary Data structure, where any word when entered, it searches the entered word in the dictionary and returns the relevant searched word if any!
+Data File Below
+
+Ramblings that need to be noted carefully.
+
+* This assignment has two parts, one is to build the desired data structure from the list.txt provided and another one is to perform search in that dictionary.
+* All kinds of data structures need to be defined with logical names, certainly not like node, node123, mynode11 etc. the same thing applies to function definition and variables too.
+* More credits where the search returns in a highly optimized way.
+* More credits where the developer writes the Space as well-Run Time Complexity of the code at the desired places.
+* More Credit where the developer handles the relevant corner cases.
+* EXTRA glory credits if there is a spelling mistake in search, the code returns the suggested words.
